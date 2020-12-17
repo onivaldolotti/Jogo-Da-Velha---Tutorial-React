@@ -2,12 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6bd5c6e4-c850-4b55-a9fe-0e195bf58d88" name="Default Changelist" comment="Initial Commit">
-
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/.eslintcache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorialGame.js" beforeDir="false" />
-
+      <change beforePath="$PROJECT_DIR$/my-app/.eslintcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/index.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,9 +51,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
-
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -56,7 +61,7 @@
   </component>
   <component name="RunManager">
     <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/my-app/package.json" />
+      <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
       <scripts>
         <script value="start" />
@@ -80,11 +85,10 @@
       <option name="presentableId" value="Default" />
       <updated>1608055036207</updated>
       <workItem from="1608055038417" duration="3895000" />
-
       <workItem from="1608117569584" duration="12589000" />
       <workItem from="1608135115395" duration="11542000" />
       <workItem from="1608204098620" duration="7401000" />
-
+      <workItem from="1608233632030" duration="568000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1608055102195</created>
@@ -93,7 +97,6 @@
       <option name="project" value="LOCAL" />
       <updated>1608055102195</updated>
     </task>
-
     <task id="LOCAL-00002" summary="First Lesson">
       <created>1608118809948</created>
       <option name="number" value="00002" />
@@ -109,7 +112,6 @@
       <updated>1608146715304</updated>
     </task>
     <option name="localTasksCounter" value="4" />
-
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,10 +134,8 @@
     <MESSAGE value="First Lesson" />
     <option name="LAST_COMMIT_MESSAGE" value="First Lesson" />
   </component>
-
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
   </component>
-
 </project>
