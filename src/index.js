@@ -27,7 +27,7 @@ class Board extends React.Component {
         rows = 3;
         cols = 3;
         let resultRows = [];
-        let contador =0;
+        let contador =1;
 
         for (let i = 0; i<rows; i++) {
             resultRows.push(
